@@ -1,0 +1,17 @@
+/* src/pages/Logout/logout.module.css */
+
+.logoutContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fff8f0;
+  flex-direction: column;
+}
+
+.message {
+  color: #fb7e00;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
